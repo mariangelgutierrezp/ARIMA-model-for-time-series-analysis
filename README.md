@@ -57,16 +57,17 @@ Plot:
 
 ## 4. Versions Used
 - Python 3.10
-- pandas 2.x
-- numpy 1.x
-- matplotlib 3.x
+- pandas 2.2.2
+- numpy 1.26.4
+- matplotlib 3.8.4
 - seaborn 0.13
-- statsmodels 0.14+
-- scikit-learn 1.3+
-- pmdarima 2.x
+- statsmodels 0.14.2
+- scikit-learn 1.4.1
+- pmdarima 2.1.1
 
 ## 5. Reproducibility
 - A fixed random_state = 42 is used where applicable.
 - All dependencies can be installed using a requirements.txt file.
 - Execution environment: Google Colab (ensures consistent setup).
+
 
